@@ -1,2 +1,2 @@
 # Simmering-ideas
-New concepts for contemplation and rework
+New concepts for contemplation and rework.
